@@ -1,0 +1,24 @@
+{
+  "cnc_server": {
+    "cnc_host": "1.1.1.1",
+    "cnc_port": 22,
+    "cnc_users": "root",
+    "cnc_password": "password"
+  },
+  "cnc_methods": [
+    "xyn",
+    "flood",
+    "gold",
+    "h1",
+    "tls",
+    "http",
+    "uam",
+    "h1hold",
+    "tlshold",
+    "recaptcha",
+    "refresh",
+    "tcpssh",
+    "tcp",
+    "udp"
+  ]
+}
