@@ -1,11 +1,11 @@
 {
-  "6288232134769@s.whatsapp.net": {
+  "6287879307754@s.whatsapp.net": {
     "basic": false,
     "premium": false,
-    "vip": false,
+    "vip": true,
     "banned": false,
-    "timelimit": 60,
-    "limit": 10
+    "timelimit": 999999,
+    "limit": 999999
   },
   "628873966815@s.whatsapp.net": {
     "basic": false,
